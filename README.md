@@ -1,4 +1,4 @@
-###📊 Proyek Analisis dan Visualisasi Data Nilai Siswa
+#📊 Proyek Analisis dan Visualisasi Data Nilai Siswa
 🌟 Ringkasan Proyek
 Proyek ini bertujuan untuk menganalisis dan memvisualisasikan dataset nilai siswa menggunakan pustaka Python seperti Pandas untuk pengolahan data dan Matplotlib/Seaborn untuk visualisasi. Hasil analisis memberikan wawasan mengenai performa akademik siswa di berbagai mata pelajaran.
 
