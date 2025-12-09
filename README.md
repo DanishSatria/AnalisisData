@@ -41,15 +41,4 @@ Kegiatan analisis dan visualisasi data ini memberikan pengalaman praktis yang be
 * **Manfaat Konkret:**
     * Memberikan **penjelasan cepat** tentang konsep statistik atau fungsi kode.
     * Membantu **memperbaiki (debug)** *script* kode Python yang error.
-    * Mempercepat proses **interpretasi** hasil visualisasi data.
-
----
-
-## 🛠️ Alat dan Pustaka yang Digunakan
-* **Bahasa Pemrograman:** Python
-* **Pustaka:**
-    * `pandas` (Data Manipulation) 
-    * `matplotlib` (Data Visualization)
-    * `seaborn` (Statistical Data Visualization)
-![Boxplot Nilai per Mapel](output_grafik2.png)
- 
+    * Mempercepat proses **interpretasi** hasil visualisasi data. 
